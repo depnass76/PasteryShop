@@ -1,0 +1,16 @@
+﻿{
+  "Colors": {
+    "Favorite": "Bleu"
+  },
+  "ConnectionStrings": {
+    "PasteryShopContextDb": "Data Source=(localdb)\\ProjectsV13;Initial Catalog=PasteryShopTreatDatabase;Integrated Security=True;Connect Timeout=30;MultipleActiveResultSets=true;"  },
+  "Logginng": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft":  "Warning"
+    }
+  }
+}
+
+
+
